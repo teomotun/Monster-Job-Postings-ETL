@@ -17,4 +17,4 @@ I got a count of the job postings for the most in demand skills and the count is
 Loaded the extracted informations to 2 databases. First was the schema for the count which was loaded to a POSTGRES database. The second was the schema for the job descriptions which was loaded to a MONGO database.(**LOAD**)
 
 
-**Tools Used: Beautiful, Splinter, Matplotlib, Splinter, Calender, Datetime, SQLAlchemy, Regular Expressions, Pymongo**
+**Tools Used: BeautifulSoup, Splinter, Matplotlib, Splinter, Calender, Datetime, SQLAlchemy, Regular Expressions, Pymongo**
