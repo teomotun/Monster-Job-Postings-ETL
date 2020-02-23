@@ -1,5 +1,6 @@
 # WHAT DATA SCIENCE SKILLS SHOULD I LEARN?
 
+![ranking.png](Images/ranking.png)
 
 The goal of this project is to determine the demand for general skills and technologies such as Python and R. Software most relevant to data science. I scraped Monster's website [link](https://www.monster.com/) for my analysis employing a wide array of tools mentioned below. The search was done nationwide (i.e across the U.S). 
 
